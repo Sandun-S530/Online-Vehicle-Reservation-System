@@ -1,0 +1,15 @@
+# Ignore IDE files
+nbproject/
+*.iml
+.idea/
+
+# Ignore compiled Java classes
+*.class
+
+# Ignore MySQL Workbench files
+*.bak
+*.sql~
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
